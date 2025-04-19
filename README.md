@@ -1,4 +1,4 @@
-# Campaign Tracking for Adobe Launch
+# Automated Traffic Sources Tracking for Adobe Launch
 
 A robust JavaScript solution for automated website traffic sources  detection in Adobe Analytics.
 
